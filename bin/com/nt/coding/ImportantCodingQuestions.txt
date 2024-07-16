@@ -1,0 +1,12 @@
+1)//Print the names which are starting with "A"
+2)Print the names which are starting with 'A' and age is 22 above
+3)Print name with its length which are starting with 'A' using Stream API
+4)Task:: Get Emp Name,age whose salary is greater than 50,000
+5)//collect names of persons who are belong to india and store into names collection
+6)//Write a java program to get MAX,MIN and AVG salary from given employees data using Stream API
+7)//How many male and female employees are there using stream API
+8)//How many Employees are there in Each department stream API
+9)//Increment Employees salary in HR department by 10 percentage using java 8
+10)//Find the Youngest Employee in the organization using java 8
+11)//Find the Employees who joined the organization in a specific year
+12)//How many males are there in HR department
